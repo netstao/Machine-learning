@@ -1,0 +1,5 @@
+import graphlab
+
+# 读取数据集
+sf = graphlab.SFrame('people-example.csv')
+
